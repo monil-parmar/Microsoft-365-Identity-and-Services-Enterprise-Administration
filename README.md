@@ -27,13 +27,6 @@ The project showcases practical expertise in configuring and administering Micro
      - Created a SharePoint document library.
      - Updated sharing policies for enhanced file security.
 
-## How to View the Documentation
-1. Open the PDF file named `Case Project.pdf`.
-2. The file contains:
-   - Screenshots for each task with descriptions.
-   - Step-by-step instructions for completing the tasks.
-   - Evidence of successful configuration and implementation.
-
 ## Key Highlights
 - **Hands-On Learning**:  
   This project is a practical application of Microsoft 365 administration and configuration skills learned during the course. 
